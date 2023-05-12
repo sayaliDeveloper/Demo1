@@ -15,5 +15,9 @@ public class Loops {
 
         }
 
+        public void whileloop(){
+        System.out.println("");
+        }
+
         }
 
